@@ -3,7 +3,7 @@ Generative art developed by the 2022-2023 students.
 
 ## Repositories
 
-- Dan
+- Dan - [GenerativeArt_Project_Sharing](https://github.com/DanDC25/GenerativeArt_Project_Sharing)
 - Dongjae
 - William
 - Khang
