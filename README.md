@@ -5,7 +5,7 @@ Generative art developed by the 2022-2023 students.
 
 - Dan - [GenerativeArt_Project_Sharing](https://github.com/DanDC25/GenerativeArt_Project_Sharing)
 - Dongjae
-- William
+- William - [p5jsGenerativeArt](https://github.com/IsNotAvaliable/p5jsGenerativeArt)
 - Khang
 
 ## Ideas
