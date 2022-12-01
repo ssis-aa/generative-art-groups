@@ -24,6 +24,6 @@ In Schoology we shared ideas about the direction of the individual projects. Her
 
 This is where the projects currently are:
 
-<img src="docs/2022-12-01_dan.png" width="22%"> <img src="docs/2022-12-01_dongjae.png" width="22%"> <img src="docs/2022-12-01_khang.png" width="22%"> <img src="docs/2022-12-01_william.png" width="22%">
+<img src="docs/2022-12-01_dan.png" width="24%"> <img src="docs/2022-12-01_dongjae.png" width="24%"> <img src="docs/2022-12-01_khang.png" width="24%"> <img src="docs/2022-12-01_william.png" width="24%">
 
 
