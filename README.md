@@ -14,7 +14,7 @@ In Schoology we shared ideas about the direction of the individual projects. Her
 
 ![DJ](docs/dj2022.png) [South Korean Flag by Dr-Pen](https://wall.alphacoders.com/big.php?i=896462)
 
-![Dan](https://github.com/DanDC25/GenerativeArt_Project_Sharing/blob/main/Screen%20Shot%202022-11-25%20at%2010.29.35.png) [Random colored abstract overlapping circles bubbles or ellipses](https://www.behance.net/gallery/64930903/VVRRR)
+![Dan](https://github.com/DanDC25/GenerativeArt_Project_Sharing/blob/main/Screen%20Shot%202022-11-25%20at%2010.29.35.png) [Random colored circles by BentChang](https://www.123rf.com/photo_97863776_random-colored-abstract-overlapping-circles-bubbles-or-ellipses-digital-generative-art-for-design-te.html)
 
 ![Khang](docs/khang2022.png) [Article on towardsdatascience/medium.com](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fhow-i-used-ai-to-reimagine-10-famous-landscape-paintings-3e2924e03f79) and [substack.com](https://thealgorithmicbridge.substack.com/p/ai-reimagines-10-famous-landscape)
 
