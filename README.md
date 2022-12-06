@@ -13,7 +13,7 @@ Generative art developed by the 2022-2023 students.
 In Schoology we shared ideas about the direction of the individual projects. Here are some of the responses:
 
 
-
+![Dan](docs/dan2022a.png) [Random colored circles by BentChang](https://www.123rf.com/photo_97863776_random-colored-abstract-overlapping-circles-bubbles-or-ellipses-digital-generative-art-for-design-te.html)
 
 ![Dan](https://github.com/DanDC25/GenerativeArt_Project_Sharing/blob/main/Screen%20Shot%202022-11-25%20at%2010.29.35.png) [Random colored circles by BentChang](https://www.123rf.com/photo_97863776_random-colored-abstract-overlapping-circles-bubbles-or-ellipses-digital-generative-art-for-design-te.html)
 
