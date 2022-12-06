@@ -12,7 +12,10 @@ Generative art developed by the 2022-2023 students.
 
 In Schoology we shared ideas about the direction of the individual projects. Here are some of the responses:
 
-![Dan](docs/dan2022.png) [Manolo Gamboa Naon 2018](https://www.behance.net/gallery/64930903/VVRRR)
+
+
+
+![Dan](https://github.com/DanDC25/GenerativeArt_Project_Sharing/blob/main/Screen%20Shot%202022-11-25%20at%2010.29.35.png) [Random colored circles by BentChang](https://www.123rf.com/photo_97863776_random-colored-abstract-overlapping-circles-bubbles-or-ellipses-digital-generative-art-for-design-te.html)
 
 ![DJ](docs/dj2022.png) [South Korean Flag by Dr-Pen](https://wall.alphacoders.com/big.php?i=896462)
 
